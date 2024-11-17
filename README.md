@@ -41,13 +41,18 @@ yarn install
 -**3.Start the development server:**
 npm run dev
 yarn dev
+
+
 -**4.Open your browser and navigate to:**
 http://localhost:5173
+
 
 -**note: made this project only improving my skills on typescript and sass**
 
 
  -**thankyou**
+
+ 
 -**k harishanker reddy**
 
 
