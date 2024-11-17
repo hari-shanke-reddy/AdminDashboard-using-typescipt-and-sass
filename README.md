@@ -28,25 +28,25 @@ A fully functional admin panel built using **React**, **Vite**, **TypeScript**, 
 
 ### Installation
 
-1. Clone the repository:
+-**1. Clone the repository:**
    git clone https://github.com/hari-shanke-reddy/AdminDashboard-using-typescipt-and-sass
    cd admin-panel
 
 
-2.Install dependencies:
+-**2.Install dependencies:**
 npm install
 yarn install
 
 
-3.Start the development server:
+-**3.Start the development server:**
 npm run dev
 yarn dev
-4.Open your browser and navigate to:
+-**4.Open your browser and navigate to:**
 http://localhost:5173
 
-note: made this project only improving my skills on typescript and sass 
+-**note: made this project only improving my skills on typescript and sass 
 thankyou 
-k harishanker reddy
+k harishanker reddy**
 
 
 
