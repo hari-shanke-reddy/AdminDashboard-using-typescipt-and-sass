@@ -1,1 +1,1 @@
-this is react admin using typesrcipt and sass project
+this is react admin pannel project using typesrcipt and sass 
