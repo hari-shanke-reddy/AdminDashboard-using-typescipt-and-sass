@@ -32,12 +32,12 @@ A fully functional admin panel built using **React**, **Vite**, **TypeScript**, 
    git clone https://github.com/hari-shanke-reddy/AdminDashboard-using-typescipt-and-sass
    cd admin-panel
 
-# or
+
 2.Install dependencies:
 npm install
 yarn install
 
-# or
+
 3.Start the development server:
 npm run dev
 yarn dev
